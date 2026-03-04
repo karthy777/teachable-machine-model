@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-## 👉 Live Website: [https://teachablemachine.withgoogle.com/models/bLQqw0ehv/](https://teachablemachine.withgoogle.com/models/bLQqw0ehv/)
+ 👉 Live Website: [https://teachablemachine.withgoogle.com/models/bLQqw0ehv/](https://teachablemachine.withgoogle.com/models/bLQqw0ehv/)
 
 ## ⚙️ Tech Stack
 
